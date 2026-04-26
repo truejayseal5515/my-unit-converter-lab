@@ -1,2 +1,11 @@
-# my-unit-converter-lab
-A simple unit converter project
+# Unit Converter
+
+Convert between different units of measurement.
+
+(>_<) just works
+
+## Usage
+
+```
+python converter.py
+```
